@@ -19,13 +19,13 @@ if [ -e ~/.bash_aliases ]; then
     source ~/.bash_aliases
 fi
 ```
-###### Note: In few Linux operating systems it can be ~/.bash_profile.**
+###### Note: In few Linux operating systems it can be ~/.bash_profile.
 
 -	`git clone https://github.com/yebh17/bash_aliases.git`
 -   `cd bash_aliases`
 -	`cp -n .aliases_* ~/.bash_aliases`
 -	`source ~/.bashrc`
 
-If you wanted to use only any of one specific aliases script, copy just that aliases script to the ~/.bash_aliases and source ~/.bashrc or ~/.bash_profile.**
+If you wanted to use only any of one specific aliases script, copy just that aliases script to the ~/.bash_aliases and source ~/.bashrc or ~/.bash_profile.
 
-Now you can ssh into the machines just by running the host name.**
+Now you can ssh into the machines just by running the host name.
