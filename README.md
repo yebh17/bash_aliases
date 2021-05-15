@@ -10,9 +10,18 @@ The following are the types of aliases for various functionalities,
 
 ## Steps
 
+-   `touch ~/.bash_aliases`
+**# Copy the below scipt lines to ~/.bashrc at the last line**
+
+```bash
+if [ -e ~/.bash_aliases ]; then
+    source ~/.bash_aliases
+fi
+```
+
 -	`git clone https://github.com/yebh17/bash_aliases.git`
 -   `cd bash_aliases`
--	`cp .aliases_* ~/.bashrc`
+-	`cp -n .aliases_* ~/.bash_aliases`
 -	`source ~/.bashrc`
 
 **# Note: In few Linux operating systems it can be ~/.bash_profile.**
