@@ -4,10 +4,10 @@ A Bash alias is a method of supplementing or overriding Bash commands with new o
 
 ## Getting Started
 
-The following are the types of aliases for various functionalities,
+The following are the types of aliases in the .aliases scipt,
 
--	.aliases_ssh (For ssh to servers using just an host name)
--	.aliases_git (For git commands shortcuts)
+-	/# ssh Servers Aliases (For ssh to servers using just an host name)
+-	/# Git Aliases (For git commands shortcuts)
 
 ## Steps
 

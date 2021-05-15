@@ -1,3 +1,11 @@
+# ssh Servers Aliases
+
+alias mercury='ssh mercury@192.168.1.186'
+alias mars='ssh mars@192.168.1.187'
+alias pi='ssh pi@192.168.1.74'
+
+# Git Aliases
+
 alias gs='git status'
 alias gd='git diff'
 alias gdc='git diff --cached'
