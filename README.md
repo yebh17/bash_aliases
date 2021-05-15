@@ -15,6 +15,6 @@ The following are the types of aliases for various functionalities,
 -	`cp aliases_* ~/`
 -	`source .aliases_*`
 
-**# Now you can ssh into the machines just by running the host name.
+**# Now you can ssh into the machines just by running the host name.**
 
-**# Note: If you wanted to use only any of one specific aliases script, just copy that aliases script to your home folder and source that script.
+**# Note: If you wanted to use only any of one specific aliases script, just copy that aliases script to your home folder and source that script.**
