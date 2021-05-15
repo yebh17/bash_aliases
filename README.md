@@ -1,6 +1,6 @@
 # Bash Aliases Scripts
 
-A Bash alias is a method of supplementing or overriding Bash commands with new ones.
+    A Bash [Aliases]https://www.gnu.org/software/bash/manual/html_node/Aliases.html is a method of supplementing or overriding Bash commands with new ones.
 
 ## Getting Started
 
