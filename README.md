@@ -12,7 +12,7 @@ The following are the types of aliases for various functionalities,
 
 -   `touch ~/.bash_aliases`
 
-Copy the below scipt lines to ~/.bashrc at the last line**
+Copy the below scipt lines to ~/.bashrc at the last line
 
 ```bash
 if [ -e ~/.bash_aliases ]; then
