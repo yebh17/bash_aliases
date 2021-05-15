@@ -24,7 +24,7 @@ fi
 
 -	`git clone https://github.com/yebh17/bash_aliases.git`
 -   `cd bash_aliases`
--	`cp .aliases_* ~/.bash_aliases`
+-	`cp .aliases ~/.bash_aliases`
 -	`source ~/.bashrc`
 
 If you wanted to use only any of one specific aliases script, copy just that aliases script to the ~/.bash_aliases and source ~/.bashrc or ~/.bash_profile.
