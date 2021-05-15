@@ -14,7 +14,7 @@ The following are the types of aliases for various functionalities,
 
 **# Copy the below scipt lines to ~/.bashrc at the last line**
 
-**# Note: In few Linux operating systems it can be ~/.bash_profile.**
+###### Note: In few Linux operating systems it can be ~/.bash_profile.**
 
 ```bash
 if [ -e ~/.bash_aliases ]; then
