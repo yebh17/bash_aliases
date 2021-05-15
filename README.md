@@ -6,8 +6,8 @@ A Bash alias is a method of supplementing or overriding Bash commands with new o
 
 The following are the types of aliases in the .aliases scipt,
 
--	/# ssh Servers Aliases (For ssh to servers using just an host name)
--	/# Git Aliases (For git commands shortcuts)
+-	 ssh Servers Aliases (For ssh to servers using just an host name)
+-    Git Aliases (For git commands shortcuts)
 
 ## Steps
 
