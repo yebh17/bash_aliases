@@ -12,7 +12,7 @@ The following are the types of aliases for various functionalities,
 
 -	`git clone https://github.com/yebh17/bash_aliases.git`
 -   `cd bash_aliases`
--	`cp aliases_* ~/`
+-	`cp .aliases_* ~/`
 -	`source .aliases_*`
 
 **# Now you can ssh into the machines just by running the host name.**
