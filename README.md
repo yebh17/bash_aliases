@@ -11,6 +11,7 @@ The following are the types of aliases for various functionalities,
 ## Steps
 
 -   `touch ~/.bash_aliases`
+
 **# Copy the below scipt lines to ~/.bashrc at the last line**
 
 ```bash
