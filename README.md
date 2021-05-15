@@ -14,6 +14,8 @@ The following are the types of aliases for various functionalities,
 
 **# Copy the below scipt lines to ~/.bashrc at the last line**
 
+**# Note: In few Linux operating systems it can be ~/.bash_profile.**
+
 ```bash
 if [ -e ~/.bash_aliases ]; then
     source ~/.bash_aliases
@@ -25,8 +27,6 @@ fi
 -	`cp -n .aliases_* ~/.bash_aliases`
 -	`source ~/.bashrc`
 
-**# Note: In few Linux operating systems it can be ~/.bash_profile.**
-
-**# If you wanted to use only any of one specific aliases script, just copy that aliases script to your ~/.bashrc or ~/.bash_profile and source it.**
+**# If you wanted to use only any of one specific aliases script, copy just that aliases script to the ~/.bash_aliases and source ~/.bashrc or ~/.bash_profile.**
 
 **# Now you can ssh into the machines just by running the host name.**
