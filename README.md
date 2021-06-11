@@ -26,6 +26,7 @@ fi
 -   `cd linux`
 -	`cp .aliases ~/.bash_aliases`
 -	`source ~/.bashrc`
+-   `alias | grep <alias-name> for checking what your alias command does`
 
 If you wanted to use only any of one specific aliases script, copy just that aliases script to the ~/.bash_aliases and source ~/.bashrc or ~/.bash_profile.
 
