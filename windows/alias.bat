@@ -48,6 +48,7 @@ doskey grh=git reset HEAD
 doskey grhh=git reset HEAD --hard
 doskey gclean=git reset --hard && git clean -dfx
 doskey gwc=git whatchanged -p --abbrev-commit --pretty=medium
+doskey githist=git log --graph --format=format:'%C(red)%h%C(reset) %C(yellow)%ad%C(reset) | %s %C(green)\\[%an\\]%C(reset)%C(bold blue)%d%C(reset)' --abbrev-commit --date=short
 
 doskey gpoat=git push origin --all && git push origin --tags
 doskey gmt=git mergetool --no-prompt
