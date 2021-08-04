@@ -13,6 +13,7 @@ doskey jupiter=ssh jupiter@192.168.1.188
 doskey gs=git status
 doskey gd=git diff
 doskey gdc=git diff --cached
+doskey gitpushmaster=git push origin master
 doskey gp=git pull
 doskey gpr=git pull --rebase
 doskey gpu=git push
