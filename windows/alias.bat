@@ -14,6 +14,7 @@ doskey gs=git status
 doskey gd=git diff
 doskey gdc=git diff --cached
 doskey gitpushmaster=git push origin master
+doskey gitpushmain=git push origin main
 doskey gp=git pull
 doskey gpr=git pull --rebase
 doskey gpu=git push
