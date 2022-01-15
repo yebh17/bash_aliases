@@ -23,7 +23,7 @@ fi
 ###### Note: In few Linux operating systems it can be ~/.bash_profile.
 
 -	`git clone https://github.com/yebh17/bash_aliases.git`
--   `cd linux`
+-   `cd bash_aliases/linux`
 -	`cp .aliases ~/.bash_aliases`
 -	`source ~/.bashrc`
 -   `alias | grep <alias-name> for checking what your alias command does`
