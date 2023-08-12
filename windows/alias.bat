@@ -4,9 +4,9 @@ doskey ls=dir
 doskey clear=cls
 
 //ssh aliases
-doskey mars=ssh mars@192.168.1.187
-doskey mercury=ssh mercury@192.168.1.186
-doskey jupiter=ssh jupiter@192.168.1.188
+doskey server1=ssh <username>@<ip>
+doskey server2=ssh <username>@<ip>
+doskey server3=ssh <username>@<ip>
 
 // Git Aliases
 

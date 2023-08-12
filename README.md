@@ -28,7 +28,7 @@ fi
 -	`source ~/.bashrc`
 -   `alias | grep <alias-name> for checking what your alias command does`
 
-If you wanted to use only any of one specific aliases script, copy just that aliases script to the ~/.bash_aliases and source ~/.bashrc or ~/.bash_profile.
+###### Note: For the servers ssh aliases you need to update the ".aliases" script accordingly with your preferred server alias name and associated username and ip to it accordingly.
 
 Now your aliases work.
 
@@ -42,3 +42,5 @@ Now your aliases work.
 -   ` /k C:\bash_aliases\windows\alias.bat`
 -   `Click OK`
 -   `Now open a new terminal and your aliases works`
+
+###### Note: For the servers ssh aliases you need to update the "alias.bat" script accordingly with your preferred server alias name and associated username and ip to it accordingly.

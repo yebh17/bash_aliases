@@ -1,8 +1,8 @@
 # ssh Servers Aliases
 
-alias mercury='ssh mercury@192.168.1.186'
-alias mars='ssh mars@192.168.1.187'
-alias jupiter='ssh jupiter@192.168.1.188'
+alias server1='ssh <username>@<ip>'
+alias server2='ssh <username>@<ip>'
+alias server3='ssh <username>@<ip>'
 
 # Git Aliases
 
@@ -15,9 +15,9 @@ alias gp='git pull'
 alias gpr='git pull --rebase'
 alias gpu='git push'
 alias gc='git commit -v'
-alias gc!='git commit -v --amend'
+alias gc='git commit -v --amend'
 alias gca='git commit -v -a'
-alias gca!='git commit -v -a --amend'
+alias gca='git commit -v -a --amend'
 alias gcmsg='git commit -m'
 alias gchm='git checkout master'
 alias gr='git remote'
